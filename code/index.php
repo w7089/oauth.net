@@ -220,6 +220,9 @@ require('../includes/_header.php');
       <li><a href="https://developer.okta.com">Okta</a></li>
       <li><a href="https://github.com/ssqsignon">SSQ signon</a> (self hosted), and also you can use as <a href="https://ssqsignon.com/">an external service</a></li>
       <li><a href="https://github.com/babelouest/glewlwyd">Glewlwyd</a> (self hosted), lightweight OAuth2 server providing <a href="https://jwt.io/">JSON Web Tokens</a>, supports authentication with database or LDAP backend for users and clients.</li>
+      <li><a href="https://github.com/keycloak/keycloak">keycloak</a>Open Source Identity and Access Management</li>
+      <li><a href="https://github.com/wso2/product-is">WSO2</a>Identity & Access Management Server</li>
+      <li><a href="https://github.com/apereo/cas">CAS</a>Apereo CAS - Enterprise Single Sign On</li>      
     </ul>
 
 
